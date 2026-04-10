@@ -1,4 +1,4 @@
-# Financial Statement Analysis - Shri Mahavir Urban Co-operative Bank, Solapur
+# Study on Financial Statement Analysis - Shri Mahavir Urban Co-operative Bank, Solapur
 
 ## Objective
 To analyze the financial performance of Shri Mahavir Urban Co-operative 
